@@ -14,3 +14,7 @@
 ## 공모전 수상현황 
 전국 대학생 IT 아이디어 대회 <br>
 [대상 수상작 발표자료](/presentaion.pptx) 
+
+발표영상
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/js1CtxSY38I" title="NewJeans (뉴진스) &#39;Attention&#39; Official MV" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
