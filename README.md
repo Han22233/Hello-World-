@@ -18,3 +18,8 @@
 발표영상
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/js1CtxSY38I" title="NewJeans (뉴진스) &#39;Attention&#39; Official MV" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## New Jeans 
+하니 
+<iframe width="640" height="360" src="
+https://i.namu.wiki/i/Sy8wbFwGfwbF1LkHD7VmwalnZ8riJqKEHFfN8pj8s1_GP3MZ2rRECPcPqKwwOu3h3tRr3147a-xH5Hucz0-Ukg.mp4" title="NewJeans (뉴진스) &#39;Attention&#39; Official MV" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
