@@ -13,4 +13,4 @@
 
 ## 공모전 수상현황 
 전국 대학생 IT 아이디어 대회 <br>
-[대상 수상작 발표자료](/presentation.pptx) 
+[대상 수상작 발표자료](/presentaion.pptx) 
