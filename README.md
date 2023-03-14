@@ -23,7 +23,7 @@
 <iframe width="640" height="360" src="
 https://i.namu.wiki/i/Sy8wbFwGfwbF1LkHD7VmwalnZ8riJqKEHFfN8pj8s1_GP3MZ2rRECPcPqKwwOu3h3tRr3147a-xH5Hucz0-Ukg.mp4" title="NewJeans (뉴진스) &#39;Attention&#39; Official MV" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<img src="e549ece10c7c8feb2d3feefdfe69bb11_res.jpg" width="200" height="300"><br>
+<img src="e549ece10c7c8feb2d3feefdfe69bb11_res.jpeg" width="200" height="300"><br>
 MINJI
 
 <img src="hanni.jpg" width="200" height="300"><br>
