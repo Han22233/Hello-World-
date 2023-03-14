@@ -18,8 +18,24 @@
 발표영상
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/js1CtxSY38I" title="NewJeans (뉴진스) &#39;Attention&#39; Official MV" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-## New Jeans 
-하니 
+ 
+ ## New Jeans 
 <iframe width="640" height="360" src="
 https://i.namu.wiki/i/Sy8wbFwGfwbF1LkHD7VmwalnZ8riJqKEHFfN8pj8s1_GP3MZ2rRECPcPqKwwOu3h3tRr3147a-xH5Hucz0-Ukg.mp4" title="NewJeans (뉴진스) &#39;Attention&#39; Official MV" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<img src="e549ece10c7c8feb2d3feefdfe69bb11_res.jpg" width="200" height="300"><br>
+MINJI
+
+<img src="hanni.jpg" width="200" height="300"><br>
+HANNI
+
+<img src="fe05b63e-1fd9-4ee9-8e4c-0e30511772d2.jpg" width="200" height="300"><br>
+DANIELLE
+
+<img src="b0bb64c1-989a-4ff6-abeb-fd92e81eda16.jpg" width="200" height="300"><br>
+HAERIN
+
+<img src="942e14c8-c3b8-4b81-805e-e21259442d27.jpg" width="200" height="300"><br>
+HEYIN 
+
+
